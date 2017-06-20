@@ -32,6 +32,9 @@
 база данных принудительного труда советских граждан в Германии. Охватывает сведения из более чем 320 тысяч писем бывших остарбайтеров, пришедших на адрес «Мемориала». Информацию проверяют волонтеры.
 Список топонимов и их синонимов: http://ost-db.tastorona.su/topo_check/synonyms/
 
+!["пример - распределение возраста мужчин в момент ареста" tag](https://github.com/MemorialInternational/hackathon18062017/blob/master/men_example.png)
+!["пример - визуализация текстов писем" tag](https://github.com/MemorialInternational/hackathon18062017/blob/master/partial-labelled-visualization.png)
+
 # Список баз данных Мемориала: https://www.memo.ru/ru-ru/collections/databases/
 
 # Если вас заинтересовали какие-то из перечисленных данных и вы хотели бы с ними ознакомиться детальнее, пишите: ap@memo.ru. 
